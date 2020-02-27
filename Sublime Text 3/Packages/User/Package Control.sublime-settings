@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"ColorHelper",
+		"Emmet",
+		"HTML5",
+		"Package Control",
+		"SideBarHider",
+		"Theme - Soda",
+		"Themr"
+	]
+}
